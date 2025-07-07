@@ -15,7 +15,7 @@ A simple Library Management System with a graphical interface built using Python
 
 ##  Tech Stack
 
-- **Language**: Python 3.x
+- **Language**: Python 
 - **GUI Library**: Tkinter (standard Python GUI)
 
 
